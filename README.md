@@ -5,8 +5,8 @@ Esta é uma API REST riada com *FastAPI*, que permite realizar operações de CR
 ### 1. Clone o repositório
 
 ```bash
-git clone <LINK SO SEU REPOSITORY>
-cd <NOME DO SEU REPOSITORY>
+git clone https://github.com/zTheuzin/trab.git
+cd trab
 docker build -t api .
 docker run -p 8000:8000 api
 ```
